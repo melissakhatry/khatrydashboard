@@ -1,0 +1,1 @@
+web: voila --port=8891 --no-browser --enable_nbextensions=True sf.ipynb
